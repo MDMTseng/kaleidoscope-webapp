@@ -1,0 +1,5 @@
+{
+  "name": "KaleidoScope Studio",
+  "description": "An interactive image kaleidoscope generator with real-time geometric controls and mirroring effects.",
+  "requestFramePermissions": []
+}
